@@ -7,9 +7,9 @@ This test was created by the IBN Software Development team based on the need to 
 This test should give us a good understanding of:
 
 - How well you can go from text to code, from requirements to product.
-- How well you can execute on predefined requirements.
+- How well you can execute predefined requirements.
 - How well do you pay attention to detail so we can rely on you to execute the work end to end.
-- How creatively you execute on vague requirements (that haven't been defined in great detail).
+- How creatively you execute vague requirements (that haven't been defined in great detail).
 - How well can you hack, organize, document, test, structure, and write your code.
 - How well you can leverage existing things to build this app fast.
 
@@ -67,7 +67,7 @@ Our development stack will include the following:
 - Check if a transaction is possible, by validating if the user has enough funds in his/her selected source currency.
 - Be smart, use dependencies, plugins to speed up your development process. Avoid DRY.
 - List the appropriate steps to successfully run this application on a local environment in the [Wise (Clone) Application Development Procedures](#wise-clone-application-development-procedures) section below.
-- Deploy the application and provide the links to: 
+- Deploy the application and provide links to: 
   - your public GitHub repository.
   - the hosted application.
 - Provide Login credentials to two dummy accounts for testing.
@@ -89,7 +89,7 @@ As a general best practice for writing commits:
 
 - Make frequent, smaller commits
 - Use clear and descriptive commit messages
-- Update the README file, if necessary
+- Update the `README` file, if necessary
 
 ## Wise (Clone) Application Development Procedures
 
@@ -97,7 +97,7 @@ List the appropriate steps to successfully run this application on a local envir
 
 ## Project Final Result Screenshots
 
-Link to the online [Demo](http://wiseclone.edgemep.com.ng)
+Link to the online [Demo](http://wiseclone.edgemep.com.ng). For a breakdown of the calculations used in [Wise](https://www.wise.com), refer to the online demo transaction page.
 
 ![Login page](images/screen-4.png)
 
